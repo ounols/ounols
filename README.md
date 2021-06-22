@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 안녕하세요! ounols입니다. 해당 계정은 간단한 프로젝트의 협업용으로 사용하고 있습니다.</br>
 그 외의 상세한 프로젝트는 Bitbucket에서 진행하고 있으니 Bitbucket도 확인해주시면 감사하겠습니다.
 
-[<img src="https://img.shields.io/badge/Bitbucket Repository-3766AB?style=flat-square&logo=Bitbucket&logoColor=white"/>](https://bitbucket.org/MSnack/) [<img src="https://img.shields.io/badge/Notion Portfolio (unavailable)-333333?style=flat-square&logo=Notion&logoColor=white"/>](https://blog.naver.com/ounols) [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/ounols) [<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat-square&logo=Youtube&logoColor=white"/>](https://www.youtube.com/user/ounols)
+[<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/ounols) [<img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Vimeo&logoColor=white"/>](https://velog.io/@ounols) [<img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/47209ca8b4814d44929ab23839d1f336)
+
+[<img src="https://img.shields.io/badge/Bitbucket Repository-3766AB?style=flat-square&logo=Bitbucket&logoColor=white"/>](https://bitbucket.org/MSnack/)   [<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat-square&logo=Youtube&logoColor=white"/>](https://www.youtube.com/user/ounols)
 
 ## ⚒ Available Skills
 자주 사용하는 기술들만 작성합니다.<p>
