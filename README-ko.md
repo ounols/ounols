@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 * [CSEngine](https://github.com/ounols/CSEngine) : CSEngine은 혼자서 개발 중인 크로스 플랫폼 3D 게임 엔진입니다.
 * [MusicApex](https://bitbucket.org/MSnack/musicapex) : MusicApex는 JAVA 기반 안드로이드 리듬게임입니다.
 * [괴도앙팡](https://github.com/ounols/APang) : 괴도앙팡은 Unity기반 착시 퍼즐 게임입니다.
+
+
+-----
+
+[<img src="https://img.shields.io/badge/-English-green?style=flat"/>](https://github.com/ounols/ounols/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-한국어-brightgreen?style=flat"/>](https://github.com/ounols/ounols/blob/main/README-ko.md)
