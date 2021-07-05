@@ -39,3 +39,8 @@ I've only written techniques that I use frequently.<p>
 * [CSEngine](https://github.com/ounols/CSEngine) : CSEngine is a cross-platform 3D game engine being developed by myself. 
 * [MusicApex](https://bitbucket.org/MSnack/musicapex) : MusicApex is a JAVA based Android rhythm game. 
 * [Phantom Thief Angpang(괴도 앙팡)](https://play.google.com/store/apps/details?id=com.amazonparrot.angpang) : Phantom Thief Angpang is a Unity-based optical illusion puzzle game. 
+
+-----
+
+[<img src="https://img.shields.io/badge/-English-green?style=flat"/>](https://github.com/ounols/ounols/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-한국어-brightgreen?style=flat"/>](https://github.com/ounols/ounols/blob/main/README-ko.md)
