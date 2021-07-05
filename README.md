@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-안녕하세요! ounols입니다. 해당 계정은 간단한 프로젝트의 협업용으로 사용하고 있습니다.</br>
-그 외의 상세한 프로젝트는 Bitbucket에서 진행하고 있으니 Bitbucket도 확인해주시면 감사하겠습니다.
+You can check out my blog, portfolio, and other activities by clicking on the badges below!
 
 [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/ounols) [<img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Vimeo&logoColor=white"/>](https://velog.io/@ounols) [<img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/47209ca8b4814d44929ab23839d1f336)
 
 [<img src="https://img.shields.io/badge/Bitbucket Repository-3766AB?style=flat-square&logo=Bitbucket&logoColor=white"/>](https://bitbucket.org/MSnack/)   [<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat-square&logo=Youtube&logoColor=white"/>](https://www.youtube.com/user/ounols)
 
 ## ⚒ Available Skills
-자주 사용하는 기술들만 작성합니다.<p>
+I've only written techniques that I use frequently.<p>
 * Lenguages</br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
 * Graphics Technical Stack</br><img src="https://img.shields.io/badge/OpenGL | OpenGL ES-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
@@ -37,6 +36,6 @@ Here are some ideas to get you started:
 
 ## 📕 Main Projects 
 
-* [CSEngine](https://github.com/ounols/CSEngine) : CSEngine은 혼자서 개발 중인 크로스 플랫폼 3D 게임 엔진입니다.
-* [MusicApex](https://bitbucket.org/MSnack/musicapex) : MusicApex는 JAVA 기반 안드로이드 리듬게임입니다.
-* [괴도앙팡](https://github.com/ounols/APang) : 괴도앙팡은 Unity기반 착시 퍼즐 게임입니다.
+* [CSEngine](https://github.com/ounols/CSEngine) : CSEngine is a cross-platform 3D game engine being developed by myself. 
+* [MusicApex](https://bitbucket.org/MSnack/musicapex) : MusicApex is a JAVA based Android rhythm game. 
+* [Phantom Thief Angpang(괴도 앙팡)](https://play.google.com/store/apps/details?id=com.amazonparrot.angpang) : Phantom Thief Angpang is a Unity-based optical illusion puzzle game. 
