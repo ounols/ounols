@@ -1,6 +1,6 @@
 <div align=center>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=@ounols&fontSize=70&desc=%F0%9F%95%B9%20Interested%20in%20game%20engine%20programming&descSize=15&animation=fadeIn&customColorList=23&fontColor=333333)
+![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=@ounols&fontSize=70&desc=%F0%9F%95%B9%20Interested%20in%20game%20engine%20programming&descSize=15&animation=fadeIn&customColorList=23&fontColor=333333&descAlignY=65)
 
 <!--
 **ounols/ounols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
