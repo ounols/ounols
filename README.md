@@ -40,8 +40,8 @@ I've only written techniques that I use frequently.<p>
 #### 𝚅𝙲𝚂
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/>
   
-#### 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗 & 𝙳𝚎𝚟𝙾𝚙𝚜  
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-DC382D?style=flat-square"/> <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Pipelines-2560E0?style=flat-square&logo=azure-pipelines&logoColor=white"/>
+#### 𝙳𝚎𝚟𝙾𝚙𝚜  
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Pipelines-2560E0?style=flat-square&logo=azure-pipelines&logoColor=white"/>
 <p>
 
 #### 𝚂𝚎𝚛𝚟𝚒𝚌𝚎𝚜
